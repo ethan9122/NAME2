@@ -2,7 +2,7 @@
 Core BruhProx scripts
 
 # Configuration
-Configure Ultraviolet for both client-hooking & service worker in `uv.config.js`
+Configure BruhProx for both client-hooking & service worker in `uv.config.js`
 ```javascript
 self.__uv$config = {
     bare: '/bare/',
