@@ -1,4 +1,4 @@
-# ultraviolet-scripts
+# Ultraviolet-scripts
 Core BruhProx scripts
 
 # Configuration
