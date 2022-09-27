@@ -35,8 +35,8 @@
 
 ## Used by
 - [Lunar.dev](https://github.com/z1g-project/lunar.dev), a popular web proxy service with focus on privacy
-- [Blurred-X](https://github.com/titaniumnetwork-dev/blurred-x), a popular web proxy service focusing on bypassing web filters and more
-- [Hypertabs](titaniumnetwork.org/), a web proxy service using a PWA browser as its frontend
+- [Blurred-X](https://github.com/z1g-project/blurred-x), a popular web proxy service focusing on bypassing web filters and more
+- [Hypertabs](https://z1g-project.johnglynn2.repl.co/store/Hypertabs/), a web proxy service using a PWA browser as its frontend
 
 ## Table of Contents
 - [Installation And Setup](#installation-and-setup)
