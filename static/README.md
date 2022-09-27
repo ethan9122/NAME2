@@ -1,5 +1,5 @@
 # ultraviolet-scripts
-Core Ultraviolet scripts
+Core BruhProx scripts
 
 # Configuration
 Configure Ultraviolet for both client-hooking & service worker in `uv.config.js`
