@@ -160,6 +160,8 @@ The client-hooking & service worker scripts required for UV are located in [ultr
 
 - Caracal.js (Creator of Ultraviolet)
 - Divide (Creator of TOMP)
+- Blurred#0777 (CSS Designer)
+- XSTARS#9715 (Developer)
 
 # Credits
 - https://github.com/tomphttp
