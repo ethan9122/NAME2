@@ -39,6 +39,10 @@
 - [Hypertabs](https://z1g-project.johnglynn2.repl.co/store/Hypertabs/), a web proxy service using a PWA browser as its frontend
 - [Terbium](https://github.com/z1g-project/Terbium), a popular webOS that can bypass web filters and has alot of convient things!
 
+## Demos
+- [BruhProx repl](https://bruhprox.johnglynn2.repl.co), a popular web proxy service with focus on privacy
+- [BruhProx Github (Beta)](https://z1g-project.github.io/BruhProx/demo/), a popular web proxy service with focus on privacy
+
 ## Table of Contents
 - [Installation And Setup](#installation-and-setup)
 - [Basic Guide](#basic-guide)
