@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/titaniumnetwork-dev/ultraviolet-static/main/uv.png" height="200">
+<p align="center"><img src="https://raw.githubusercontent.com/z1g-project/BruhProx/main/static/uv.png" height="200">
 </p>
 
 <h1 align="center">BruhProx-Node</h1>
@@ -37,6 +37,7 @@
 - [Lunar.dev](https://github.com/z1g-project/lunar.dev), a popular web proxy service with focus on privacy
 - [Blurred-X](https://github.com/z1g-project/blurred-x), a popular web proxy service focusing on bypassing web filters and more
 - [Hypertabs](https://z1g-project.johnglynn2.repl.co/store/Hypertabs/), a web proxy service using a PWA browser as its frontend
+- [Terbium](https://github.com/z1g-project/Terbium), a popular webOS that can bypass web filters and has alot of convient things!
 
 ## Table of Contents
 - [Installation And Setup](#installation-and-setup)
