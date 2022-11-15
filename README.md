@@ -40,8 +40,8 @@
 - [Terbium](https://github.com/z1g-project/Terbium), a popular webOS that can bypass web filters and has alot of convient things!
 
 ## Demos
-- [BruhProx repl](https://bruhprox.johnglynn2.repl.co), a popular web proxy service with focus on privacy
-- [BruhProx Github (Beta)](https://z1g-project.github.io/BruhProx/demo/), a popular web proxy service with focus on privacy
+- [BruhProx repl](https://bruhprox.johnglynn2.repl.co), The Replit Version of BruhProx
+- [BruhProx Github (Beta)](https://z1g-project.github.io/BruhProx/demo/), A experamental version of BruhProx that runs 24/7!
 
 ## Table of Contents
 - [Installation And Setup](#installation-and-setup)
